@@ -40,7 +40,11 @@ ChatGPT Plus会员的订阅费用为20美元/月，允许每月生成最多50个
 
 * WildCard官网地址：<a href="https://bewildcard.com/i/ANYOFAI">https://bewildcard.com/i/ANYOFAI</a>
 
+![打开WildCard官网，点击右上角的“登录/注册”，并使用手机号完成登录](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/sora-1.jpg)
+
 ### 第二步：分别点击“我的卡片”和“去开通”。
+
+![分别点击“我的卡片”和“去开通”](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/sora-2.jpg)
 
 ### 第三步：选择服务年限，输入邀请码“ANYOFAI”，并完成支付。
 
@@ -48,28 +52,42 @@ ChatGPT Plus会员的订阅费用为20美元/月，允许每月生成最多50个
 
 注意：使用邀请码“**ANYOFAI**”，开卡费用可以立减1美元！
 
+![选择服务年限，输入邀请码“ANYOFAI”，并完成支付](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/sora-3.jpg)
+
 ### 第四步：完善个人信息，并点击“暂不认证”完成开卡。
 
 注意：当你支付完开卡费后，系统会提示你完善个人信息，此处可以随意填写一个名字。随后系统还会引导你进行实名认证，但对于大多数用户而言，直接点击“暂不认证”即可完成开卡。
 
 补充说明：如果你完成实名认证，WildCard卡的每月支付额度可达3000美元；如果未实名认证，每月支付额度为60美元。
 
+![完善个人信息，并点击“暂不认证”完成开卡](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/sora-4.jpg)
+
 ### 第五步：分别点击“我的卡片”和“充值”，并至少充值20美金。
 
 注意：这里充值的20美元是用于支付ChatGPT Plus的订阅费用。
+
+![分别点击“我的卡片”和“充值”，并至少充值20美金](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/sora-5.jpg)
 
 ### 第六步：打开ChatGPT官网，使用你的账号和密码登录，并点击左下角的“升级套餐”。
 
 注意：如果你没有ChatGPT账号，可以参考“<a href="https://github.com/anyofai/chatgpt">ChatGPT账号注册</a>”一文，自己动手注册一个账号。
 
+![打开ChatGPT官网，使用你的账号和密码登录，并点击左下角的“升级套餐”](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/sora-6.jpg)
+
 ### 第七步：复制ChatGPT Plus订阅支付页面的完整链接。
 
 注意：在ChatGPT Plus订阅支付页面，不需要进行其他操作，直接复制该页面的完整链接即可。
+
+![复制ChatGPT Plus订阅支付页面的完整链接](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/sora-7.jpg)
 
 ### 第八步：返回WildCard后台，点击“ChatGPT Plus一键升级”按钮，并粘贴链接。
 
 注意：点击“ChatGPT Plus一键升级”按钮后，按照系统提示操作，将之前复制的完整链接粘贴到相应框中，最后点击“一键升级”即可。
 
+![返回WildCard后台，点击“ChatGPT Plus一键升级”按钮，并粘贴链接](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/sora-8.jpg)
+
 ### 第九步：等待几分钟，即可成功订阅ChatGPT Plus会员！
+
+![等待几分钟，即可成功订阅ChatGPT Plus会员](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/sora-9.jpg)
 
 OK，当完成以上操作之后，你已经成功地完成了<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus充值</a>！接下来，你就可以打开Sora官网，使用你的ChatGPT帐号登录，并开始使用Sora的所有功能和服务！
