@@ -1,6 +1,8 @@
 # Sora是什么？如何使用Sora？Sora入口在哪？Sora订阅保姆级教程！
 
-<p align="center">最近更新于：2024年12月10日</p>
+<p align="center">最近更新于：2024年12月12日</p>
+
+![Sora是什么？如何使用Sora？Sora入口在哪？Sora订阅保姆级教程！](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/Sora.png)
 
 北京时间12月10日凌晨，OpenAI终于正式发布了其文本生成视频模型的最新版本：Sora Turbo。新版本发布后，由于热度过高，Sora官网一度因流量过大而出现访问异常。Sora Turbo能够将文本描述转换为最长20秒、分辨率高达1080p的视频，并支持宽屏、竖屏和方屏等多种比例选择。
 
