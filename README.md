@@ -8,7 +8,7 @@
 
 目前，Sora Turbo仅面向ChatGPT Plus和Pro用户开放。ChatGPT Plus用户每月可生成最多50个720p分辨率、时长5秒的视频；ChatGPT Pro用户则可生成最多500个1080p分辨率、时长20秒的视频，并可下载无水印版本。Sora的推出在内容创作和影视制作领域引发了广泛关注，许多创作者认为，这项技术将大幅降低视频制作门槛，带来全新的创作可能性。
 
-那么，Sora是什么？Sora官网是哪个？中国大陆用户又该如何使用Sora？本文将为你详细解答这些问题，帮助你快速了解并上手使用这款工具。你也可以查看《<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus充值</a>》一文来快速获取一个ChatGPT Plus帐号！
+那么，Sora是什么？Sora官网是哪个？中国大陆用户又该如何使用Sora？本文将为你详细解答这些问题，帮助你快速了解并上手使用这款工具。你也可以查看《<a href="https://github.com/anyofai/anyofai.github.io">GPT Plus充值</a>》一文来快速获取一个ChatGPT Plus帐号！
 
 ## Sora是什么？
 
