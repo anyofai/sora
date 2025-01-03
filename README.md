@@ -1,6 +1,6 @@
 # Sora是什么？如何使用Sora？Sora入口在哪？Sora订阅保姆级教程！
 
-<p align="center">最近更新于：2024年12月12日</p>
+<p align="center">最近更新于：2025年1月3日</p>
 
 ![Sora是什么？如何使用Sora？Sora入口在哪？Sora订阅保姆级教程！](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/Sora.png)
 
