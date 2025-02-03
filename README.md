@@ -36,7 +36,7 @@ ChatGPT Plus会员的订阅费用为20美元/月，允许每月生成最多50个
 
 ## 如何使用OpenAI的Sora？
 
-正如我们在前文提到的，中国用户若想使用Sora，必须先订阅ChatGPT Plus会员。而在中国，订阅ChatGPT Plus会员需要先获取一张“野卡YEKA虚拟信用卡”，因为野卡虚拟信用卡是目前中国用户支付ChatGPT Plus订阅费用唯一可行的渠道。
+正如我们在前文提到的，中国用户若想使用Sora，必须先订阅ChatGPT Plus会员。而在中国，订阅ChatGPT Plus会员需要先获取一张“<a href="https://yeka.ai/i/ANYOFAI">野卡YEKA虚拟信用卡</a>”，因为野卡虚拟信用卡是目前中国用户支付ChatGPT Plus订阅费用唯一可行的渠道。
 
 接下来，我们将详细介绍中国大陆用户如何快速获取“野卡YEKA虚拟信用卡”，并使用该卡支付ChatGPT Plus订阅费用，新手用户只需按照我们的操作步骤执行即可！
 
