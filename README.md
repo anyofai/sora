@@ -90,7 +90,7 @@ ChatGPT Plus会员的订阅费用为20美元/月，允许每月生成最多50个
 
 注意：点击“ChatGPT Plus一键升级”按钮后，按照系统提示操作，将之前复制的完整链接粘贴到相应框中，最后点击“一键升级”即可。
 
-![返回WildCard后台，点击“ChatGPT Plus一键升级”按钮，并粘贴链接](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/sora-8.jpg)
+![返回WildCard后台，点击“ChatGPT Plus一键升级”按钮，并粘贴链接](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/Sora-Yeka-6.png)
 
 ### 第九步：等待几分钟，即可成功订阅ChatGPT Plus会员！
 
