@@ -1,6 +1,6 @@
 # Sora是什么？如何使用Sora？Sora入口在哪？Sora订阅保姆级教程！
 
-<p align="center">最近更新于：2025年1月3日</p>
+<p align="center">最近更新于：2025年2月3日</p>
 
 ![Sora是什么？如何使用Sora？Sora入口在哪？Sora订阅保姆级教程！](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/Sora.png)
 
@@ -40,37 +40,27 @@ ChatGPT Plus会员的订阅费用为20美元/月，允许每月生成最多50个
 
 接下来，我们将详细介绍中国大陆用户如何快速获取WildCard虚拟信用卡，并使用该卡支付ChatGPT Plus订阅费用，新手用户只需按照我们的操作步骤执行即可！
 
-### 第一步：打开WildCard官网，点击右上角的“登录/注册”，并使用手机号完成登录。
+### 第一步：打开“野卡YEKA”官网，并使用中国手机号完成帐号注册。
 
-* WildCard官网地址：<a href="https://bewildcard.com/i/ANYOFAI">https://bewildcard.com/i/ANYOFAI</a>
+* 野卡YEKA官网地址：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>
 
-![打开WildCard官网，点击右上角的“登录/注册”，并使用手机号完成登录](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/sora-1.jpg)
-
-### 第二步：分别点击“我的卡片”和“去开通”。
-
-![分别点击“我的卡片”和“去开通”](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/sora-2.jpg)
+### 第二步：分别点击“立即开通”和“开通会员”按钮。
 
 ### 第三步：选择服务年限，输入邀请码“ANYOFAI”，并完成支付。
 
-这里收取的是WildCard的开卡费用，意思是人家提供了服务，多少要收取点“辛苦费”。不过，这个开卡费用只收取一次，后续不会再收取任何其他费用了。此外，WildCard虚拟信用卡开通后可以长期稳定使用，不仅适用于订阅ChatGPT Plus，还可用于订阅Claude Pro、Midjourney、OnlyFans等其他服务。
+这里收取的是“野卡YEKA”的开卡费用，意思是人家提供了服务，多少要收取点“辛苦费”。不过，这个开卡费用只收取一次，后续不会再收取任何其他费用了。此外，野卡虚拟信用卡开通后可以长期稳定使用，不仅适用于订阅ChatGPT Plus，还可用于订阅Claude Pro、Midjourney、OnlyFans等其他服务。
 
-注意：使用邀请码“**ANYOFAI**”，开卡费用可以立减1美元！
+* 注意：使用邀请码“**ANYOFAI**”，开卡费用可以立减1美元！
 
-![选择服务年限，输入邀请码“ANYOFAI”，并完成支付](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/sora-3.jpg)
+### 第四步：完善个人信息，并点击“完成认证”。
 
-### 第四步：完善个人信息，并点击“暂不认证”完成开卡。
+注意：当你支付完开卡费后，系统会提示你完善个人信息，此处可以随意填写一个名字。随后系统还会引导你进行实名认证，如果你不想透露隐私信息，那么直接点击“完成认证”按钮即可完成开卡。
 
-注意：当你支付完开卡费后，系统会提示你完善个人信息，此处可以随意填写一个名字。随后系统还会引导你进行实名认证，但对于大多数用户而言，直接点击“暂不认证”即可完成开卡。
+补充说明：如果你完成实名认证，野卡的每月支付额度可达3000美元；如果未实名认证，每月支付额度为60美元。
 
-补充说明：如果你完成实名认证，WildCard卡的每月支付额度可达3000美元；如果未实名认证，每月支付额度为60美元。
-
-![完善个人信息，并点击“暂不认证”完成开卡](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/sora-4.jpg)
-
-### 第五步：分别点击“我的卡片”和“充值”，并至少充值20美金。
+### 第五步：分别点击“订阅服务”和“充值”，并至少充值20美金。
 
 注意：这里充值的20美元是用于支付ChatGPT Plus的订阅费用。
-
-![分别点击“我的卡片”和“充值”，并至少充值20美金](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/sora-5.jpg)
 
 ### 第六步：打开ChatGPT官网，使用你的账号和密码登录，并点击左下角的“升级套餐”。
 
