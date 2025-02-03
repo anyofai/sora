@@ -44,7 +44,13 @@ ChatGPT Plus会员的订阅费用为20美元/月，允许每月生成最多50个
 
 * 野卡YEKA官网地址：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>
 
+![打开“野卡YEKA”官网，并使用中国手机号完成帐号注册](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/Sora-Yeka-1.png)
+
 ### 第二步：分别点击“立即开通”和“开通会员”按钮。
+
+![点击“立即开通”按钮](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/Sora-Yeka-2.png)
+
+![点击“开通会员”按钮](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/Sora-Yeka-2-1.png)
 
 ### 第三步：选择服务年限，输入邀请码“ANYOFAI”，并完成支付。
 
@@ -52,15 +58,21 @@ ChatGPT Plus会员的订阅费用为20美元/月，允许每月生成最多50个
 
 * 注意：使用邀请码“**ANYOFAI**”，开卡费用可以立减1美元！
 
+![选择服务年限，输入邀请码“ANYOFAI”，并完成支付](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/Sora-Yeka-3.png)
+
 ### 第四步：完善个人信息，并点击“完成认证”。
 
 注意：当你支付完开卡费后，系统会提示你完善个人信息，此处可以随意填写一个名字。随后系统还会引导你进行实名认证，如果你不想透露隐私信息，那么直接点击“完成认证”按钮即可完成开卡。
 
 补充说明：如果你完成实名认证，野卡的每月支付额度可达3000美元；如果未实名认证，每月支付额度为60美元。
 
+![完善个人信息，并点击“完成认证”](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/Sora-Yeka-4.png)
+
 ### 第五步：分别点击“订阅服务”和“充值”，并至少充值20美金。
 
 注意：这里充值的20美元是用于支付ChatGPT Plus的订阅费用。
+
+![分别点击“订阅服务”和“充值”，并至少充值20美金](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/Sora-Yeka-5.png)
 
 ### 第六步：打开ChatGPT官网，使用你的账号和密码登录，并点击左下角的“升级套餐”。
 
