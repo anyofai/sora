@@ -1,6 +1,6 @@
 # Sora是什么？如何使用Sora？Sora入口在哪？Sora订阅保姆级教程！
 
-<p align="center">最近更新于：2025年2月3日</p>
+<p align="center">最近更新于：2025年2月13日</p>
 
 ![Sora是什么？如何使用Sora？Sora入口在哪？Sora订阅保姆级教程！](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/Sora.png)
 
@@ -118,4 +118,4 @@ OK，当完成以上操作之后，你已经成功地完成了<a href="https://g
 
 * <a href="https://github.com/anyofai/onlyfans">OnlyFans订阅</a>：Onlyfans怎样玩？中国人怎么用OnlyFans？Onlyfans官网是哪个？如何注册Onlyfans帐号？国内如何订阅Onlyfans呢？接下来本文将为你详细解答这些问题。
 
-* <a href="https://anyofai.github.io/">WildCard怎么样</a>：本文将详细解答WildCard怎么样、WildCard安全吗等常见问题，并深入介绍WildCard虚拟信用卡能用来干什么以及如何获取WildCard虚拟信用卡。
+* <a href="https://anyofai.github.io/">野卡Yeka怎么样</a>：本文将详细解答“野卡Yeka怎么样”、“野卡Yeka安全吗”等常见问题，并深入介绍野卡虚拟信用卡能用来干什么以及如何获取野卡虚拟信用卡。
