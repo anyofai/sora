@@ -1,6 +1,6 @@
 # Sora是什么？如何使用Sora？Sora入口在哪？Sora订阅保姆级教程！
 
-<p align="center">最近更新于：2025年3月25日</p>
+<p align="center">最近更新于：2025年5月25日</p>
 
 ![Sora是什么？如何使用Sora？Sora入口在哪？Sora订阅保姆级教程！](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/Sora.png)
 
@@ -36,15 +36,15 @@ ChatGPT Plus会员的订阅费用为20美元/月，允许每月生成最多50个
 
 ## 如何使用OpenAI的Sora？
 
-正如我们在前文提到的，中国用户若想使用Sora，必须先订阅ChatGPT Plus会员。而在中国，订阅ChatGPT Plus会员需要先获取一张“<a href="https://yeka.ai/i/ANYOFAI">野卡YEKA虚拟信用卡</a>”，因为野卡虚拟信用卡是目前中国用户支付ChatGPT Plus订阅费用唯一可行的渠道。
+正如我们在前文提到的，中国用户若想使用Sora，必须先订阅ChatGPT Plus会员。而在中国，订阅ChatGPT Plus会员需要先获取一张“<a href="https://yeka.ai/i/ANYOFAI">WildCard野卡虚拟信用卡</a>”，因为WildCard野卡虚拟信用卡是目前中国用户支付ChatGPT Plus订阅费用唯一可行的渠道。
 
-接下来，我们将详细介绍中国大陆用户如何快速获取“野卡YEKA虚拟信用卡”，并使用该卡支付ChatGPT Plus订阅费用，新手用户只需按照我们的操作步骤执行即可！
+接下来，我们将详细介绍中国大陆用户如何快速获取“WildCard野卡虚拟信用卡”，并使用该卡支付ChatGPT Plus订阅费用，新手用户只需按照我们的操作步骤执行即可！
 
-### 第一步：打开“野卡YEKA”官网，并使用中国手机号完成帐号注册。
+### 第一步：打开“WildCard野卡”官网，并使用中国手机号完成帐号注册。
 
-* 野卡YEKA官网地址：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>
+* WildCard野卡官网地址：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>
 
-![打开“野卡YEKA”官网，并使用中国手机号完成帐号注册](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/Sora-Yeka-1.png)
+![打开“WildCard野卡”官网，并使用中国手机号完成帐号注册](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/Sora-Yeka-1.png)
 
 ### 第二步：分别点击“立即开通”和“开通会员”按钮。
 
@@ -54,7 +54,7 @@ ChatGPT Plus会员的订阅费用为20美元/月，允许每月生成最多50个
 
 ### 第三步：选择服务年限，输入邀请码“ANYOFAI”，并完成支付。
 
-这里收取的是“野卡YEKA”的开卡费用，意思是人家提供了服务，多少要收取点“辛苦费”。不过，这个开卡费用只收取一次，后续不会再收取任何其他费用了。此外，野卡虚拟信用卡开通后可以长期稳定使用，不仅适用于订阅ChatGPT Plus，还可用于订阅Claude Pro、Midjourney、OnlyFans等其他服务。
+这里收取的是“WildCard野卡”的开卡费用，意思是人家提供了服务，多少要收取点“辛苦费”。不过，这个开卡费用只收取一次，后续不会再收取任何其他费用了。此外，WildCard野卡虚拟信用卡开通后可以长期稳定使用，不仅适用于订阅ChatGPT Plus，还可用于订阅Claude Pro、Midjourney、OnlyFans等其他服务。
 
 * 注意：使用邀请码“**ANYOFAI**”，开卡费用可以立减1美元！
 
@@ -63,8 +63,6 @@ ChatGPT Plus会员的订阅费用为20美元/月，允许每月生成最多50个
 ### 第四步：完善个人信息，并点击“完成认证”。
 
 注意：当你支付完开卡费后，系统会提示你完善个人信息，此处可以随意填写一个名字。随后系统还会引导你进行实名认证，如果你不想透露隐私信息，那么直接点击“完成认证”按钮即可完成开卡。
-
-补充说明：如果你完成实名认证，野卡的每月支付额度可达3000美元；如果未实名认证，每月支付额度为60美元。
 
 ![完善个人信息，并点击“完成认证”](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/Sora-Yeka-4.png)
 
@@ -86,11 +84,11 @@ ChatGPT Plus会员的订阅费用为20美元/月，允许每月生成最多50个
 
 ![复制ChatGPT Plus订阅支付页面的完整链接](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/sora-7.jpg)
 
-### 第八步：返回野卡后台，点击“ChatGPT一键升级”按钮，并粘贴链接。
+### 第八步：返回WildCard野卡后台，点击“ChatGPT一键升级”按钮，并粘贴链接。
 
 注意：点击“ChatGPT一键升级”按钮后，按照系统提示操作，将之前复制的完整链接粘贴到相应框中，最后点击“下一步”即可。
 
-![返回野卡后台，点击“ChatGPT一键升级”按钮，并粘贴链接](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/Sora-Yeka-6.png)
+![返回WildCard野卡后台，点击“ChatGPT一键升级”按钮，并粘贴链接](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/Sora-Yeka-6.png)
 
 ### 第九步：等待几分钟，即可成功订阅ChatGPT Plus会员！
 
