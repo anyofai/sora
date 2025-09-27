@@ -1,6 +1,6 @@
 # Sora是什么？如何使用Sora？Sora入口在哪？Sora订阅保姆级教程！
 
-<p align="center">最近更新于：2025年9月17日</p>
+<p align="center">最近更新于：2025年9月27日</p>
 
 <blockquote>
 
