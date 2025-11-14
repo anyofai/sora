@@ -1,6 +1,6 @@
 # Sora是什么？如何使用Sora？Sora入口在哪？Sora订阅保姆级教程！
 
-<p align="center">最近更新于：2025年10月21日</p>
+<p align="center">最近更新于：2025年11月14日</p>
 
 <blockquote>
 
@@ -12,7 +12,7 @@
 
 **方法一**：若你使用ChatGPT Plus会员的频率较低，可以通过“**<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租(26元/月)</a>**”的方式继续使用。
 
-**方法二**：若你使用ChatGPT Plus会员的频率较高，可以通过“**<a href="https://github.com/anyofai/anyofai.github.io">购买ChatGPT Plus帐号(158元/月)</a>**”的方式继续使用。
+**方法二**：若你使用ChatGPT Plus会员的频率较高，可以通过“**<a href="https://github.com/anyofai/anyofai.github.io">购买ChatGPT Plus账号(158元/月)</a>**”的方式继续使用。
 
 注意：如果你通过以上两种方法去购买ChatGPT Plus原生独立账号或者为自己的ChatGPT账号代充值的话，每个月都只需要158元。这个价格与此前通过WildCard野卡订阅ChatGPT Plus会员的费用基本一致。
 
@@ -24,7 +24,7 @@
 
 目前，Sora Turbo仅面向ChatGPT Plus和Pro用户开放。ChatGPT Plus用户每月可生成最多50个720p分辨率、时长5秒的视频；ChatGPT Pro用户则可生成最多500个1080p分辨率、时长20秒的视频，并可下载无水印版本。Sora的推出在内容创作和影视制作领域引发了广泛关注，许多创作者认为，这项技术将大幅降低视频制作门槛，带来全新的创作可能性。
 
-那么，Sora是什么？Sora官网是哪个？中国大陆用户又该如何使用Sora？本文将为你详细解答这些问题，帮助你快速了解并上手使用这款工具。你也可以查看《<a href="https://github.com/anyofai/anyofai.github.io">GPT Plus充值</a>》一文来快速获取一个ChatGPT Plus帐号！
+那么，Sora是什么？Sora官网是哪个？中国大陆用户又该如何使用Sora？本文将为你详细解答这些问题，帮助你快速了解并上手使用这款工具。你也可以查看《<a href="https://github.com/anyofai/anyofai.github.io">GPT Plus充值</a>》一文来快速获取一个ChatGPT Plus账号！
 
 ## Sora是什么？
 
@@ -56,9 +56,9 @@ ChatGPT Plus会员的订阅费用为20美元/月，允许每月生成最多50个
 
 接下来，我们将详细介绍中国大陆用户如何快速获取“WildCard野卡虚拟信用卡”，并使用该卡支付ChatGPT Plus订阅费用，新手用户只需按照我们的操作步骤执行即可！
 
-### 第一步：打开“WildCard野卡”官网，并使用中国手机号完成帐号注册。
+### 第一步：打开“WildCard野卡”官网，并使用中国手机号完成账号注册。
 
-![打开“WildCard野卡”官网，并使用中国手机号完成帐号注册](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/Sora-Yeka-1.png)
+![打开“WildCard野卡”官网，并使用中国手机号完成账号注册](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/Sora-Yeka-1.png)
 
 ### 第二步：分别点击“立即开通”和“开通会员”按钮。
 
@@ -108,18 +108,18 @@ ChatGPT Plus会员的订阅费用为20美元/月，允许每月生成最多50个
 
 ![等待几分钟，即可成功订阅ChatGPT Plus会员](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/sora-9.jpg)
 
-OK，当完成以上操作之后，你已经成功地完成了<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus充值</a>！接下来，你就可以打开Sora官网，使用你的ChatGPT帐号登录，并开始使用Sora的所有功能和服务！
+OK，当完成以上操作之后，你已经成功地完成了<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus充值</a>！接下来，你就可以打开Sora官网，使用你的ChatGPT账号登录，并开始使用Sora的所有功能和服务！
 
 ## Sora订阅相关的其他文章：
 
-* <a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus开通</a>：如何购买/合租/代充ChatGPT Plus会员？国内如何使用GPT-5-Codex？
-* <a href="https://github.com/anyofai/claude-pro">Claude Pro订阅</a>：如何注册Claude账号？如何购买/合租/代充Claude Pro会员？如何使用Claude Code？
-* <a href="https://github.com/anyofai/midjourney">Midjourney订阅</a>：如何购买Midjourney原生独立帐号？如何代充Midjourney会员？
-* <a href="https://github.com/anyofai/poe">Poe订阅</a>：如何购买Poe原生独立账号？支持GPT-5、Claude Opus/Sonnet 4、Grok-4、Gemini-2.5 Pro等大模型！
-* <a href="https://github.com/anyofai/x-twitter">SuperGrok订阅</a>：如何合租SuperGrok会员？如何购买SuperGrok帐号？如何代充SuperGrok会员？
+* <a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus购买</a>：如何购买/合租/代充ChatGPT Plus会员？如何购买Codex拼车服务？
+* <a href="https://github.com/anyofai/claude-pro">Claude Pro订阅</a>：如何注册Claude账号？如何购买/合租/代充Claude Pro会员？含Claude Code国内使用教程！
+* <a href="https://github.com/anyofai/midjourney">Midjourney订阅</a>：如何购买Midjourney原生独立账号？如何代充Midjourney会员？
+* <a href="https://github.com/anyofai/poe">Poe订阅</a>：Poe会员支持GPT-5.1、Claude 4.5 Sonnet、Grok-4、Gemini-2.5 Pro等大模型！
+* <a href="https://github.com/anyofai/x-twitter">SuperGrok订阅</a>：如何合租SuperGrok会员？如何购买SuperGrok账号？如何代充SuperGrok会员？
 
-* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-5、DeepSeek-R1、Grok-4和Gemini-2.5 Pro等大模型！每月仅需27元！
-* <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！每月仅需8元！
+* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-5.1、DeepSeek-R1、Grok-4和Gemini-2.5 Pro等大模型！每月仅需27元！
+* <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！价格低至14元起！
 * <a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>：提供国内镜像直连、官方标准会员合租、官方Pro会员合租等三种服务！每月仅需27元！
 * <a href="https://github.com/anyofai/netflix-hezu">Netflix奈飞合租</a>：提供独立子账号、支持设置pin码，可访问Netflix全球影视资源，全程质保，价格低至8元起！
 * <a href="https://github.com/anyofai/youtube-hezu">YouTube合租</a>：安全有保障，可享受YouTube Premium会员所有权益！每月仅需15元！
