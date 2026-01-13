@@ -1,6 +1,6 @@
 # 2026年最新Sora订阅教程：国内如何使用Sora？如何购买Sora邀请码？如何购买Sora会员账号？
 
-<p align="center">最近更新于：2026年1月5日</p>
+<p align="center">最近更新于：2026年1月13日</p>
 
 ![2026年最新Sora订阅教程：国内如何使用Sora？如何购买Sora邀请码？如何购买Sora会员账号？](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/Sora.png)
 
@@ -58,7 +58,7 @@ Sora是OpenAI推出的新一代视频生成模型，能够根据文本、图像�
 
 **第一步：进入账号星球官网并找到Sora商品。**
 
-在浏览器中打开<a href="https://accboyytbanyofai.acceboy.com/">**账号星球官网**</a>，在左侧分类中点击「AI工具」，随后在商品列表中找到「Sora会员订阅账号」，并点击进入产品详情页面。
+在浏览器中打开<a href="https://accboyytbanyofai.acceboy.com/zh-cn-cny/buy-sora">**账号星球官网**</a>，在左侧分类中点击「AI工具」，随后在商品列表中找到「Sora会员订阅账号」，并点击进入产品详情页面。
 
 ![购买Sora邀请码第一步：进入账号星球官网并找到Sora商品](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/%E8%B4%AD%E4%B9%B0Sora%E9%82%80%E8%AF%B7%E7%A0%81-1.png)
 
@@ -76,7 +76,7 @@ Sora是OpenAI推出的新一代视频生成模型，能够根据文本、图像�
 
 OK，当完成付款后，账号星球会向你提供一个Sora 2邀请码。你只需登录自己的OpenAI账号，并前往邀请码兑换页面，输入邀请码即可完成资格激活。此外，账号星球提供24小时在线客服支持，如果出现Sora 2邀请码无法使用、激活失败等情况，可以随时联系客服进行反馈，按要求申请更换或处理。总体来说，通过账号星球购买Sora邀请码是目前国内用户最稳妥、最便捷的方式之一。
 
-<p align="center"><a href="https://accboyytbanyofai.acceboy.com/">访问账号星球官网</a></p>
+<p align="center"><a href="https://accboyytbanyofai.acceboy.com/zh-cn-cny/buy-sora">访问账号星球官网</a></p>
 
 ## 2026如何购买Sora会员账号？
 
@@ -92,7 +92,7 @@ OK，当完成付款后，账号星球会向你提供一个Sora 2邀请码。你
 
 总体而言，如果你更看重开通速度或稳定性，直接购买Sora会员账号会比购买Sora邀请码更省时省力，也是目前国内用户快速体验Sora的主要方式之一。
 
-<p align="center"><a href="https://accboyytbanyofai.acceboy.com/">访问账号星球官网</a></p>
+<p align="center"><a href="https://accboyytbanyofai.acceboy.com/zh-cn-cny/buy-sora">访问账号星球官网</a></p>
 
 ## Sora相关的常见问题答疑
 
