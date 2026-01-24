@@ -1,6 +1,6 @@
 # 2026年最新Sora订阅教程：国内如何使用Sora？如何购买Sora邀请码？如何购买Sora会员账号？
 
-<p align="center">最近更新于：2026年1月19日</p>
+<p align="center">最近更新于：2026年1月24日</p>
 
 ![2026年最新Sora订阅教程：国内如何使用Sora？如何购买Sora邀请码？如何购买Sora会员账号？](https://raw.githubusercontent.com/anyofai/sora/refs/heads/main/image/Sora.png)
 
